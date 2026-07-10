@@ -1,0 +1,10 @@
+clone/
+state/
+reports/
+logs/
+*.pyc
+__pycache__/
+.ruff_cache/
+.venv/
+*.lock
+.env
